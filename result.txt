@@ -1,0 +1,13 @@
+2015-06-15 20:47:37 
+'cisco switch'
+
+Pinging 192.168.7.91 with 32 bytes of data:
+Reply from 192.168.7.91: bytes=32 time=7ms TTL=64
+Reply from 192.168.7.91: bytes=32 time=1ms TTL=64
+Reply from 192.168.7.91: bytes=32 time=1ms TTL=64
+Reply from 192.168.7.91: bytes=32 time=1ms TTL=64
+
+Ping statistics for 192.168.7.91:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1ms, Maximum = 7ms, Average = 2ms
